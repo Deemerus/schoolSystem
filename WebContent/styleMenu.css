@@ -1,0 +1,140 @@
+img.logo {
+	max-height: 15%;
+	max-width: 15%;
+	margin: 25px;
+}
+
+p {
+	padding: 10px;
+}
+
+form.filterClass{
+	padding:10px;
+}
+
+body {
+	background-image: url("pics/triangular.png");
+}
+table {
+	background-color: white;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	vertical-align: top;
+}
+
+/* ---TOP MENU */
+table.menu {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+th.menu {
+	background-image: url("pics/dark_embroidery.png");
+}
+p.menu {
+	text-align: right;
+	color: white;
+	padding: 10px;
+}
+p.menu a {
+	text-align: top;
+	color: white;
+}
+
+td.midmenu {
+	background-image: url("pics/squared_metal.png");
+	padding: 10px;
+}
+img.midmenu{
+	display: inline-block;
+	margin: auto;
+}
+div.midmenu{
+	text-align: center;	
+}
+
+table, td.leftmenu {
+	background-image: url("pics/whitey.png");
+	width: 150px;
+}
+
+td.content {
+	background-color: white;
+	height: 400px;
+}
+
+table.margin50 {
+	margin-left: 50px;
+}
+
+input.button {
+	margin-left: 50px;
+}
+
+div.loginBorder {
+	background-color: #a3a3c2;
+	border-style: solid;
+	border-color: #0059b3;
+	width: 200px;
+	padding: 75px;
+	margin: auto;
+	margin-top: 75px;
+	margin-bottom: 75px;
+}
+
+div.addBorder {
+	background-color: #a3a3c2;
+	border-style: solid;
+	border-color: #0059b3;
+	width: 175px;
+	padding: 25px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+div.filterClass {
+	background-color: #a3a3c2;
+	border-style: solid;
+	border-color: #0059b3;
+	width: 150px;
+	padding: 25px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+table.editGrades {
+	margin-left: 10px;
+	background-image: url("pics/old_map.png");
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+table.manageUsers {
+	margin-left: auto;
+	margin-right:auto;
+	background-image: url("pics/old_map.png");
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+td.grades {
+	padding:3px;
+}
+
+table.choosesubject {
+	width: 100px;
+	
+}
+div.news {
+	background-color: #a3a3c2;
+	border-style: solid;
+	border-color: #0059b3;
+	width: 550px;
+	padding: 15px;
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
