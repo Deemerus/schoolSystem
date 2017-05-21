@@ -4,6 +4,9 @@
 <header>
 	<link rel="stylesheet" type="text/css" href="styleMenu.css">
 </header>
+<head>
+<title>School System</title>
+</head>
 <body>
 	<jsp:useBean id="user" class="beans.User" scope="session" />
 	<table class="menu">
